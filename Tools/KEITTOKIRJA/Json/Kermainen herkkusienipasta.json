@@ -1,0 +1,33 @@
+{
+    "foods": [
+        {
+            "name": "Kermainen herkkusienipasta",
+            "portions": "2-3",
+            "ings": {
+                "Ainekset ": [
+                    "230 g+pastaa",
+                    "1+pieni sipuli",
+                    "200 g+tuoreita ruskeita herkkusieniä",
+                    "1 rkl+voita",
+                    "1+valkosipulinkynsi",
+                    "1½ dl+kuivaa valkoviiniä",
+                    "2 dl+kuohukermaa",
+                    "+suolaa ja mustapippuria",
+                    "+silputtua tuoretta persiljaa"
+                ]
+            },
+            "steps": [
+                "Aloita keittämällä valitsemasi pasta pakkauksen ohjeen mukaan.",
+                "Huuhtele sienet tai pyyhi niistä mahdollinen multa pois. Kuori ja silppua sipuli, siivuta sienet.",
+                "Kuullota sieniä ja sipuleita pannulla voissa, kunnes vesi on haihtunut. Kuori ja hienonna sillä välin valkosipuli.",
+                "Lisää valkosipuli hetkeksi pannulle ja sekoittele. Kaada viini joukkoon ja kiehauta kasaan eli anna kastikkeen kiehua, kunnes viini on haihtunut lähes kokonaan pois.",
+                "Lisää kerma. Mausta ripauksella suolaa ja pippuria. Tarkista maku. Anna kastikkeen kiehua matalalla lämmöllä muutaman minuutin.",
+                "Sekoita sienikastike ja pasta keskenään. Ripottele päälle tuoretta persiljaa."
+            ],
+            "hints": [
+                "Voit käyttää tavallisen sipulin sijasta salottisipulia.",
+                "Myös valkoiset herkkusienet tai muut sienet sopivat pastaan."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "foods": [
+        {
+            "name": "Kanaa kung pao",
+            "portions": "2-3",
+            "ings": {
+                "Kanan ainekset ": [
+                    "300-400 g+maustamatonta broilerin fileetä",
+                    "½ dl+suolaamattomia maapähkinöitä",
+                    "2-3+valkosipulin kynttä hienonnettuna",
+                    "2 tl+raastettua inkivääriä",
+                    "3+kevätsipulia hienonnettuna",
+                    "3 rkl+rypsiöljyä tai maapähkinäöljyä",
+                    "1+keskitulinen punainen chili"
+                ],
+                "Marinadin ainekset ": [
+                    "1 rkl+soijakastiketta"
+                ],
+                "Kastikkeen ainekset ": [
+                    "2 rkl+tummaa balsamiviinietikkaa",
+                    "2 tl+soijakastiketta",
+                    "2 tl+hoisin-kastiketta",
+                    "2 tl+seesamiöljyä",
+                    "4 tl+sokeria",
+                    "2 tl+maissitärkkelystä",
+                    "½ tl+mustapippuria"
+                ]
+            },
+            "steps": [
+                "Paahda maapähkinöitä 225 asteisessa uunissa noin 5 minuuttia tai kunnes ne saavat väriä pintaansa. Varoitus - pähkinät palavat helposti. Anna jäähtyä sen verran, että saat pähkinät sormin kuorittua.",
+                "Paloittele broilerin fileet suupalan kokoisiksi ja laita ne marinadiin noin 15 minuutiksi huoneenlämpöön.",
+                "Kuori ja hienonna sillä välin valkosipulin kynnet. Pilko chili ja poista halutessasi siemenet. Kuori ja raasta inkivääriä. Hienonna myös kevätsipulit, mutta pidä valkoiset ja vihreät osat erillään.",
+                "Sekoita kastikkeen ainekset yhteen.",
+                "Kuumenna öljy pannussa. Paista broilerin palat kypsiksi. Lisää joukkoon valkosipuli, chili, inkivääri sekä kevätsipulin vaalea osa. Paista vielä pieni hetki, maksimissaan minuutin. Lisää joukkoon kastike ja sekoita.",
+                "Viimeistele kääntelemällä joukkoon kuoritut pähkinät ja ripottelemalla pinnalle kevätsipulin vihreät osat. Tarjoa keitetyn riisin tai nuudeleiden kera."
+            ],
+            "hints": [
+                "Voit lisätä marinadin joukkoon 2 tl riisiviinietikkaa, kuivaa sherryä tai kiinalaista riisiviiniä tuomaan lisää makua."
+            ]
+        }
+    ]
+}

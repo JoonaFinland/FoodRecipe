@@ -1,0 +1,33 @@
+{
+    "foods": [
+        {
+            "name": "Broileri-nuudelikeitto",
+            "portions": "4",
+            "ings": {
+                "Ainekset ": [
+                    "1 rkl+rasvaa (voita, rypsiöljyä…)",
+                    "300 g+hunajamarinoituja broilerin fileesuikaleita",
+                    "1 pussi+kasvissuikaleita (esim. Apetit suikalejuurekset 180g)",
+                    "1,2 l+vettä",
+                    "2+kanaliemikuutiota",
+                    "1 tl+suolatonta sitruunapippuria",
+                    "90 g+munanuudeleita",
+                    "125 g+maustamatonta Koskenlaskija-sulatejuustoa",
+                    "+hienonnettua persiljaa oman maun mukaan"
+                ]
+            },
+            "steps": [
+                "Lisää pannulle rasva ja paista broilerisuikaleet kypsiksi. Lisää joukkoon kasvissuikaleet ja anna kypsyä vielä minuutin.",
+                "Kaada broileri ja kasvikset kattilaan. Lisää joukkoon vesi, kanaliemikuutiot sekä sitruunapippuri. Kuumenna kiehuvaksi.",
+                "Kun vesi kiehuu, murenna nuudelit ja lisää ne joukkoon. Laita myös juusto nokareina joukkoon. Sekoita ja keitä nuudelit kypsäksi pakkauksen ohjeen mukaan.",
+                "Ripottele pinnalle hienonnettua persiljaa"
+            ],
+            "hints": [
+                "Myös maustamattomat broilerinsuikaleet käyvät keittoon. Lisää niihin silloin oman maun mukaan suolaa ja mausteita paistovaiheessa.",
+                "Pakastekasvissuikaleita voi laittaa enemmänkin, tai sitten kasvikset voi lisätä keittoon tuoreina.",
+                "Sulatejuuston voi korvata ruoka- tai kookoskermalla.",
+                "Voit myös kokeilla lisätä keittoon esimerkiksi punaista currytahnaa tuomaan lisää potkua."
+            ]
+        }
+    ]
+}

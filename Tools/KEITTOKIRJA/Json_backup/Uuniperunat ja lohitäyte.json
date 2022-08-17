@@ -1,0 +1,30 @@
+{
+    "foods": [
+        {
+            "name": "Uuniperunat ja lohitäyte",
+            "portions": "2-3",
+            "ings": {
+                "Ainekset ": [
+                    "4 isoa+uuniperunaa (Esim. Rosamunda tai Van Gogh)",
+                    "200-250 g+lämminsavustettua lohta",
+                    "200 g+kermaviiliä tai ranskankermaa",
+                    "(1 rkl+kuohukermaa)",
+                    "¼ - ½ tl+valko- tai mustapippuria",
+                    "sormisuolaa",
+                    "tilliä oman maun mukaan",
+                    "2 rkl+sitruunamehua"
+                ]
+            },
+            "steps": [
+                "Laita uuni kuumenemaan 200 asteeseen.",
+                "Pese perunat huolellisesti ja pistele niihin haarukalla muutamaan kohtaan reikiä. Ripottele päälle vähän sormisuolaa. Älä kuori perunoita tai kääri niitä folioon.",
+                "Kypsennä perunoita uunin keskitasolla esim. uunivuoassa tai pellillä perunoiden koosta riippuen 60-80 minuuttia. Mieluummin liian kypsiä kuin raakoja pottuja!",
+                "Nypi lohi pieneksi ja poista samalla mahdolliset ruodot. Lisää lohen joukkoon kermaviili tai ranskankerma, pippuria, ripaus sormisuolaa, hienonnettua tilliä sekä sitruunamehua. Sekoita. Jos täyte on liian jäykkää, voit lisätä joukkoon vähän kermaa. Maista ja lisää tarvittaessa esimerkiksi suolaa tai pippuria.",
+                "Kun perunat ovat kypsiä, leikkaa niihin ristiviillot, painele peruna auki ja ripottele viiltoihin vähän sormisuolaa. Täytä sitten peruna lohitäytteellä ja nauti!"
+            ],
+            "hints": [
+                "Varaa jokaista ruokailijaa kohden 1-2 perunaa, nälästä ja perunan koosta riippuen."
+            ]
+        }
+    ]
+}

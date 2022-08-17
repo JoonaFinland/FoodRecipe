@@ -1,0 +1,38 @@
+{
+    "foods": [
+        {
+            "name": "Helppo lohikeitto",
+            "portions": "4",
+            "ings": {
+                "Ainekset ": [
+                    "1+sipuli",
+                    "5-7 cm+pala purjon vihreää osaa",
+                    "n. 800 g (8-12 kpl)+keittoperunoita",
+                    "2+porkkanaa",
+                    "2-3 rkl+voita",
+                    "(1 rkl+vehnäjauhoja)",
+                    "1 l+vettä",
+                    "2 kpl+kalaliemikuutioita",
+                    "8-10 kpl+maustepippuria",
+                    "2+laakerinlehteä",
+                    "½-1 tl+paprikajauhetta",
+                    "½ tl+cayennepippuria",
+                    "½-1 tl+sitruunapippuria",
+                    "1 rkl+sweet chili -kastiketta",
+                    "1 pkt (300 g)+pakastelohikuutioita",
+                    "2 dl+kuohukermaa (myös ruokakerma käy)",
+                    "(½ tl+suolaa)",
+                    "1 ruukku+tilliä hienonnettuna"
+                ]
+            },
+            "steps": [
+                "Kuori ja hienonna sipuli. Halkaise, huuhdo ja silppua purjo. Pese, kuori ja paloittele perunat sekä porkkanat.",
+                "Sulata rasva kattilassa ja lisää silputtu sipuli sekä purjo. Kuullota muutama minuutti. Sekoita joukkoon perunat ja porkkanat. Halutessasi ripottele joukkoon jauhot ja sekoita.",
+                "Kaada vesi kattilaan, lisää liemikuutiot ja muut mausteet. Kuumenna kiehuvaksi.",
+                "Lisää kiehuvaan liemeen vielä lohikuutiot ja keitä noin 8-10 minuuttia tai kunnes perunat ja kala ovat kypsiä.",
+                "Lopuksi lisää joukkoon kerma. Tarkista maku ja mausta tarvittaessa suolalla. Viimeistele keitto hienonnetulla tillillä."
+            ],
+            "hints": []
+        }
+    ]
+}

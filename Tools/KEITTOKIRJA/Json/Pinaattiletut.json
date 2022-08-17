@@ -1,0 +1,33 @@
+{
+    "foods": [
+        {
+            "name": "Pinaattiletut",
+            "portions": "n.",
+            "ings": {
+                "Ainekset ": [
+                    "150g+(Apetit) kotimaista pakastepinaattia",
+                    "3+kananmunaa",
+                    "½ l+kaurajuomaa tai maitoa",
+                    "½ tl+suolaa",
+                    "(½-1 tl+vaniljasokeria)",
+                    "3 dl+jauhoja",
+                    "+voita paistamiseen"
+                ]
+            },
+            "steps": [
+                "Sulata pinaatti huoneenlämmössä, vesihauteessa tai mikrossa.",
+                "Vatkaa munien rakenne rikki isossa kulhossa. Lisää joukkoon maito, suola ja halutessasi myös vaniljasokeri. Vatkaa ainekset keskenään.",
+                "Lisää sitten joukkoon jauhot ja sekoita tasaiseksi.",
+                "Lopuksi sekoita joukkoon vielä sulatettu pinaatti.",
+                "Paista taikinasta rasvassa kuumalla pannulla ohuita lettuja.",
+                "Tarjoa pinaattiletut esimerkiksi hillon kanssa."
+            ],
+            "hints": [
+                "Jauhoiksi sopivat ainakin vehnäjauho, täysjyvävehnäjauho ja spelttijauho.",
+                "Lisää vaniljasokeria, jos haluat tarjota letut makean täytteen kanssa.",
+                "Muista lisätä aina pieni nokare voita pannulle, kun alat paistamaan uutta lettua.",
+                "Säädä hellalevyn lämpöä pienemmälle tai suuremmalle lettujen ulkonäön mukaan. Alussa kannattaa laittaa levy melko kuumalle, jotta pannu lämpenee tarpeeksi jo ensimmäistä lettua varten."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "home": "Koti",
+    "recipes": "Reseptit",
+    "settings": "Asetukset",
+    "logout": "Kirjaudu ulos",
+    "foodrecipe": "RJReseptit",
+    "search": "Hae reseptejä",
+    "add_new": "Lisää uusi resepti",
+    "login": "Kirjaudu sisään",
+    "password": "Salasana",
+    "email": "Sähköposti",
+    "portions": "Annosta",
+    "minutes": "Minuuttia",
+    "ingredients": "Ainekset",
+    "instructions": "Ohje",
+    "hints": "Vinkit"
+}

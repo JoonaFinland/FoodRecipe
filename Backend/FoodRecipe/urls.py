@@ -15,12 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from rest_framework_jwt.views import obtain_jwt_token, verify_jwt_token
-
+from rest_framework_simplejwt.views import TokenObtainPairView, TokenVerifyView, TokenRefreshView
+from django.conf import settings
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin', admin.site.urls),
     path('api/', include('Recipe.api.urls','api-recipe')),
-    path('api/verifytoken', verify_jwt_token),
-    path('api/login', obtain_jwt_token),
-]
+    path('api/verifytoken', TokenVerifyView.as_view()),
+    path('api/refresh', TokenRefreshView.as_view()),
+    path('api/login', TokenObtainPairView.as_view()),
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

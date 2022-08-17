@@ -1,0 +1,49 @@
+{
+    "foods": [
+        {
+            "name": "Tofukulho",
+            "portions": "2",
+            "ings": {
+                "Pannumarinoidun tofun ainekset ": [
+                    "1 pkt (250-270 g)+maustamatonta tofua",
+                    "1-2+valkosipulinkynttä",
+                    "1 rkl+raastettua inkivääriä",
+                    "2 rkl+seesamiöljyä",
+                    "2 rkl+soijakastiketta",
+                    "½ rkl+sokeria",
+                    "2 rkl+makeaa chilikastiketta"
+                ],
+                "Pikamarinoitujen porkkanoiden ainekset ": [
+                    "1+porkkana",
+                    "1 rkl+sitruunamehua",
+                    "1 rkl+riisiviini- tai valkoviinietikkaa",
+                    "1 tl+sokeria tai agavesiirappia",
+                    "1 tl+raastettua inkivääriä"
+                ],
+                "Kastikkeen ainekset ": [
+                    "1-2+limen mehu",
+                    "1 rkl+soijakastiketta",
+                    "½ rkl+sokeria",
+                    "1 rkl+makeaa chilikastiketta"
+                ],
+                "Lisäksi tarvitset ": [
+                    "+riisiä tai nuudeleita",
+                    "+kurkkua",
+                    "+korianteria"
+                ]
+            },
+            "steps": [
+                "Aloita pikamarinoiduista porkkanoista. Raasta porkkana ja leikkaa siitä kuorimaveitsellä ohuita suikaleita. Raasta ja kuori inkivääri, myös pannumarinoituja tofuja varten. Mittaa pieneen kulhoon sitruunamehu, etikka, sokeri ja inkivääri. Sekoita porkkanat joukkoon ja jätä maustumaan muiden aineiden valmistamisen ajaksi.",
+                "Valmista riisiä tai nuudeleita pakkauksen ohjeen mukaan.",
+                "Jatka pannumarinoituun tofuun. Painele tofu kuivaksi talouspaperin tai keittiöpyyhkeen sisällä. Leikkaa se kuutioiksi. Kuori ja hienonna valkosipulinkynnet. Kuumenna seesamiöljy pannussa. Lisää pannulle tofukuutiot, valkosipuli ja inkivääri. Mausta soijakastikkeella, sokerilla ja makealla chilikastikkeella. Kääntele tofuja mausteseoksessa ja anna sitten paistua molemmin puolin, kunnes tofu on saanut kauniin värin pintaansa.",
+                "Valmista kastike sekoittamalla kaikki ainekset yhteen pienessä astiassa.",
+                "Kuutioi kurkkua lisukkeeksi.",
+                "Kokoa kaikista aineksista annos, jonka päälle kaadat kastiketta ja ripottelet tuoretta korianteria."
+            ],
+            "hints": [
+                "Olen käyttänyt sekä Jalotofun että Sofinen maustamatonta tofua.",
+                "Voit kokeilla käyttää tofun sijasta myös maustamatonta kanaa. Lisää tällöin valkosipuli, inkivääri ja muut mausteet vasta kanan kypsyttyä pannulle."
+            ]
+        }
+    ]
+}

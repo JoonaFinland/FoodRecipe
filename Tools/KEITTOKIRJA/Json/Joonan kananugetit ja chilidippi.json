@@ -1,0 +1,49 @@
+{
+    "foods": [
+        {
+            "name": "Joonan kananugetit ja chilidippi",
+            "portions": "2-4",
+            "ings": {
+                "Kananugettien ainekset ": [
+                    "n. 300-500 g+maustamatonta broilerin fileepihviä",
+                    "130-150 g+tortillasipsejä",
+                    "½ tl+suolaa",
+                    "1 tl+valkosipulijauhetta",
+                    "1 tl+sipulijauhetta",
+                    "1 tl+paprikajauhetta",
+                    "½ -1 tl+chilijauhetta",
+                    "2-3 tl+cajun-mausteseosta",
+                    "n. 1 dl+vehnäjauhoja",
+                    "2+isoa kananmunaa",
+                    "+kuivattua ruohosipulia"
+                ],
+                "Dippiainekset ": [
+                    "2 dl+kermaviiliä",
+                    "1-2 rkl+kuohukermaa",
+                    "½ dl+makeaa chilikastiketta",
+                    "ripaus+sormisuolaa ja mustapippuria"
+                ]
+            },
+            "steps": [
+                "Laita uuni kuumenemaan 250 asteeseen. Laita leivinpaperi uunipellille.",
+                "Lisää tortillasipsit tehosekoittimeen ja surauta pienehköksi murskaksi nopeasti. Voit murskata sipsit myös esimerkiksi pussissa kaulimella.",
+                "Kaada tortillasipsimurska syvään kulhoon ja sekoita joukkoon suola, valkosipulijauhe, sipulijauhe, paprikajauhe sekä puolet chilijauheesta ja cajun-mausteseoksesta.",
+                "Yhdistä syvällä lautasella vehnäjauhot ja loput chilijauheesta sekä cajun-mausteseoksesta.",
+                "Sekoita uudessa kulhossa munien rakenne rikki.",
+                "Leikkaa broilerin leikkeet reilun kokoisiksi paloiksi.",
+                "Kääntele broilerinpaloja ensin jauhoseoksessa, sitten kananmunassa ja lopuksi tortillasipsimurskassa. Nosta pellille leivinpaperin päälle.",
+                "Paista nugetteja uunin keskitasolla noin 15 minuuttia. Pienten nugettien kohdalla voi riittää jopa vähempikin aika, joten vahdi, etteivät nugetit pääse palamaan! Suuret nugetit voivat tarvita sen sijaan muutaman minuutin pidemmän paistoajan. Varmista, ettei broileri ole sisältä punertavaa.",
+                "Tee nugettien paistuessa chilidippi sekoittamalla kaikki dippiainekset yhteen sopivan kokoisessa kulhossa.",
+                " Kun nugetit tulevat uunista, ripottele niiden päälle kuivattua ruohosipulia.",
+                " Nauti nugetit pelkän dipin kanssa tai tarjoa lisukkeena esimerkiksi cajun-maustettuja lohkoperunoita tai dipattavia kasvistikkuja."
+            ],
+            "hints": [
+                "Varaa jokaista syöjää kohden ainakin 125 g broileria.",
+                "Jyväbroilerin Naturelli - Iso suikale fileestä (330 g) -broileria käyttämällä voit skipata pilkkomisvaiheen. Huomaa kuitenkin, että tämän kokoiset nugetit paistuvat uunissa muutamaa minuuttia nopeammin!",
+                "Annetut maustemitat ovat arvioita. Mausta seokset siis oman maun mukaan ja käytä halutessasi myös muita mausteita. Suolan määrää ei kuitenkaan kannata lisätä!",
+                "Kananmunien sijasta voit kastaa broilerit myös sulatetussa voissa (n.50g).",
+                "Jos päätät tarjoilla nugetit lohkoperunoiden kanssa, kannattaa perunat laittaa ensin uuniin ja valmistella niiden kypsyessä nugetit pellille odottamaan paistoa."
+            ]
+        }
+    ]
+}

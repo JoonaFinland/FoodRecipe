@@ -1,0 +1,28 @@
+{
+    "foods": [
+        {    
+            "name": "BBQ-kanapizza",
+            "portions": 2,
+            "ings": [
+                {
+                    "name": "Pizzapohjan ainekset",
+                    "ings": "25 g+tuorehiivaa|2 dl+vettä|1 tl+suolaa|4 rkl+oliiviöljyä|4 dl+pizzajauhoja"
+                },
+                {
+                    "name": "BBQ-kanatäytteen ainekset",
+                    "ings": "300 g+maustamattomia broilerin fileitä|1 tl+suolaa|355 g+BBQ-kastiketta"
+                },
+                {
+                    "name": "Pizzakastikkeen ainekset",
+                    "ings": "1 tlk (400g)+Mutti kirsikkatomaatteja|1+valkosipulinkynsi|1 rkl+oliiviöljjyä|1 rkl+tomaattipyrettä|0.5 tl+suolaa tai hyppysellinen sormisuolaa|+mustapippuria myllystä|5-10+basilikanlehteä"
+                },
+                {
+                    "name": "Valintaiset ainekset",
+                    "ings": "+puolikas punasipuli|+kirsikkatomaatteja|+juustoraastetta| +rucolan versoja tai rucolaa"
+                }
+            ],
+            "steps": "Aloita tekemällä BBQ-kanatäyte. Laita uuni kuumenemaan 200 asteeseen. Leikkaa broilerin fileet pizzaan sopiviksi pieniksi paloiksi.|Aseta broilerit uunivuokaan ja ripottele niiden päälle vähän suolaa. Kaada sitten broilereiden päälle valitsemaasi BBQ-kastikettia niin, että fileet saavat reilun kuorrutteen, ja kääntele broilereita, jotta maku imeytyy joka puolelle.|Laita broilerit uuniin noin 15 minuutiksi. Pienille suupaloille riittää vartti, mutta isommat palat vaativat hitusen pidemmän kypsymisajan. Tarkista haluessasi kypsyys leikkaamalla broilerin pala kahtia. Anna jäähtyä.|Jatka tekemällä pizzapohja. Sekoita hiiva kädenlämpöiseen veteen ja lisää joukkoon suola ja puolet öljystä. Sekoita jauhot vähitellen joukkoon taikinaa samalla vaivaten. Vaivauksen aikana voit lisätä loput öljystä taikinan joukkoon. Sekoita taikinaa, kunnes se ei jää enää kunnolla sormiin kiinni ja siitä pystyy muotoilemaan pallon. Taikina on kuitenkin hyvä jättää vähän löysäksi. |Anna taikinan kohota kulhossa liinan alla noin 30-60 minuuttia. Suosittelen laittamaan taikinakulhon myös lämpimään vesihauteeseen suuremman kulhon sisälle. Lämpö edesauttaa ja nopeuttaa kohoamista.|Taikinan kohotessa voit valmistaa pizzakastikkeen ja valmistella haluamasi muut täytteet. Laita kaikki pizzakastikkeen ainekset joko kulhoon ja soseuta sauvasekoittimella, tai tehosekoittimeen ja surauta ne sileäksi.|Kuori ja halkaise punasipuli ja pilko siitä ohuita siivuja. Siivuta myös kirsikkatomaatit pieniksi. Jos et käytä valmista juustoraastetta, raasta haluamasi määrä juustoa.|Kun pizzataikina on kohonnut riittävästi, jaa taikina kahteen osaan. Kauli kummastakin taikinapallerosta jauhoitetulla alustalla ohuet ja pyöreät pizzapohjat. Kaulimista helpotaa, jos ripottelet myös taikinan päälle ja käsiisi jauhoja. Käytä myös tässä vaiheessa pizzajauhoja. Siirrä pohjat varoen leivinpaperilla vuorattuihin uunipelteihin. Lisää pizzakastiketta ja kaikki täytteet rucolaa lukuun ottamatta.|Paista pizzaa 225 asteisessa uunissa noin 10-15 minuuttia, kunnes juusto alkaa tummua. Korista pizza vielä rucolan versoilla tai rucolalla.",
+            "hints": "Pizzajauhot voi korvata myös tavallisella vehnäjauholla, mutta silloin pohjasta ei saa yhtä rapeaa ja herkullista.|Ylimääräisen pizzakastikkeen voi pakastaa seuraavaa kertaa varten.|Itse tehdyn pizzakastikkeen voi ihan hyvillä mielin korvata myös valmiilla. Suosittelen siinä tapauksessa käyttämään Hungry Chefin (Diavola) Pizzakastiketta! Jos tulinen pizzakastike kiinnostaa, voit lisätä myös omaan pizzakastikkeeseen chiliä joukkoon.|Valmiiksi raastetut juustot helpottavat ja nopeuttavat pizzan tekoa. Oma lempparini on Arlan Muhkea Mozzarella -raaste. Myös muut (mozzarella)juustoraasteet toimivat hyvin pizzassa!|BBQ-kanatäytteen kanssa voisi sopia myös ananas ja mozzarella!"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "foods": [
+        {
+            "name": "Kermainen kanapasta",
+            "portions": "2-3",
+            "ings": {
+                "Ainekset ": [
+                    "210 g+pastaa",
+                    "1 pkt (300g)+Atria kanan fileesuikale pehmeän pippurinen",
+                    "1 rkl+voita tai öljyä",
+                    "2+valkosipulin kynttä",
+                    "kourallinen+kirsikka- tai luumutomaatteja",
+                    "150 g+crème fraîchea",
+                    "2 rkl+pastan keitinvettä",
+                    "+rouhittua mustapippuria",
+                    "+chilijauhetta",
+                    "+suolaa",
+                    "½ ruukkua+basilikaa",
+                    "+Gran Castelli -tuoreraastetta tai parmesaania"
+                ]
+            },
+            "steps": [
+                "Laita vesi kiehumaan pastaa varten. Paista fileesuikaleita kuumalla pannulla pienessä määrässä rasvaa.",
+                "Kanan ruskistuessa kuori ja hienonna valkosipulin kynnet. Pilko kirsikkatomaatit neljään osaan.",
+                "Keitä pasta pakkauksen ohjeen mukaan.",
+                "Kun kana on kypsää, lisää pannulle valkosipuli ja kirsikkatomaatit. Jatka hetki freesaamista. Lisää sitten joukkoon crème fraîche ja pastan keitinvettä. Kiehauta.",
+                "Silppua basilika ja lisää silppu sekä oman maun mukaan chilijauhetta ja mustapippuria kastikkeeseen. Tarkista maku ja mausta tarvittaessa myös suolalla.",
+                "Valuta pasta ja sekoita se kastikkeen joukkoon. Tarjoa kanapasta Gran Castelli -tuoreraasteen tai parmesaanin kera."
+            ],
+            "hints": [
+                "Reseptiin sopii muutkin fileesuikalemaut, kuten valkosipuli tai hunaja.",
+                "Voit lisätä basilikasilpun yhteydessä myös kourallisen rucolaa tai babypinaattia.",
+                "Chilijauheen voi jättää pois tai korvata tuoreella chilillä. Viipaloi sopiva määrä chiliä ja lisää se joukkoon valkosipulin ja kirsikkatomaattien kanssa samaan aikaan.",
+                "Gran Castelli -tuoreraaste sopii parmesaanin tavoin pastan päälle. Se on huomattavasti halvempaa kuin aito parmesaani."
+            ]
+        }
+    ]
+}

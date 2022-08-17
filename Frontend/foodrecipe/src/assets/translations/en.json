@@ -1,0 +1,17 @@
+{
+    "home": "Home",
+    "recipes": "Recipes",
+    "settings": "Settings",
+    "logout": "Logout",
+    "foodrecipe": "FoodRecipe",
+    "search": "Search recipes",
+    "add_new": "Add new recipe",
+    "login": "Login",
+    "password": "Password",
+    "email": "Email",
+    "portions": "Portions",
+    "minutes": "Minutes",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "hints": "Hints"
+}

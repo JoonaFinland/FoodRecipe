@@ -1,8 +1,8 @@
-from cgitb import lookup
+#from cgitb import lookup
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.response import Response
-from django.conf import settings
-from rest_framework import generics, mixins
+#from django.conf import settings
+from rest_framework import generics
 
 import json
 
@@ -46,7 +46,7 @@ class RecipeRudView(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = RecipeSerializer
 
     def get_queryset(self):
-        return Recipe.objects.filter(user=self.request.user)
+        return Recipe.objects.filter()
     
     def get_serializer_context(self, *args, **kwargs):
         return {"request": self.request}
@@ -54,10 +54,10 @@ class RecipeRudView(generics.RetrieveUpdateDestroyAPIView):
 
 class MyRecipes(generics.ListAPIView):
     lookup_field = 'id'
-    serializer_class = LightRecipeSerializer
+    serializer_class = RecipeSerializer
 
     def get_queryset(self):
-        return Recipe.objects.filter(user=self.request.user)
+        return Recipe.objects.filter()
 
 
 @api_view(['POST'])

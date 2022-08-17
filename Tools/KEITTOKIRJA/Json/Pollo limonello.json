@@ -1,0 +1,36 @@
+{
+    "foods": [
+        {
+            "name": "Pollo limonello",
+            "portions": "3",
+            "ings": {
+                "Ainekset ": [
+                    "300-400 g+maustamattomia kanan fileitä",
+                    "1 rkl+voita",
+                    "2+salottisipulia",
+                    "2-3+valkosipulinkynttä",
+                    "+muutaman sentin pätkä inkivääriä",
+                    "½ rkl+kurkumaa",
+                    "1+sitruuna",
+                    "1 tl+hunajaa",
+                    "2 dl+kuohukermaa",
+                    "2 dl+turkkilaista jogurttia",
+                    "+(sormi)suolaa ja mustapippuria",
+                    "300g+pastaa",
+                    "+(parmesaania)",
+                    "+(tuoretta basilikaa)"
+                ]
+            },
+            "steps": [
+                "Leikkaa kanafileet pieniksi suikaleiksi tai sopiviksi suupaloiksi.",
+                "Paista kananpalat pannulla voissa kypsiksi, mausta suolalla ja pippurilla.",
+                "Kuori ja silppua sipulit ja valkosipulinkynnet. Kuori ja raasta inkivääri. Lisää sipulit, valkosipulinkynnet, inkivääri, kurkuma ja hunaja pannulle kanan joukkoon. Sekoittele hetken.",
+                "Kaada joukkoon kerma ja anna kiehahtaa. Raasta kastikkeeseen sitruunan kuori ja purista puolikkaan sitruunan mehu. Jos sitruuna on kovin pieni, voit puristaa enemmänkin mehua. Lisää lopussa vielä jogurtti. Älä kypsennä kastiketta enää. Mausta sormisuolalla ja mustapippurilla oman maun mukaan.",
+                "Keitä ja valuta pasta pakkauksen ohjeen mukaan ja sekoita kastikkeen joukkoon, jotta se imee itseensä kaikki maut. Tarjoa halutessasi parmesaanin ja basilikan kanssa."
+            ],
+            "hints": [
+                "Salottisipulit voi korvata myös yhdellä tavallisella sipulilla."
+            ]
+        }
+    ]
+}

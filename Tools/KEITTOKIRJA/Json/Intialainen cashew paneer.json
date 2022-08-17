@@ -1,0 +1,39 @@
+{
+    "foods": [
+        {
+            "name": "Intialainen cashew paneer",
+            "portions": "4",
+            "ings": {
+                "Ainekset ": [
+                    "2 dl / 100 g+cashewpähkinöitä",
+                    "400 g+kookosmaitoa",
+                    "70 g+tomaattipyrettä",
+                    "2 pkt (450g)+Apetinan paneer-juustoa",
+                    "1+sipuli",
+                    "1 rkl+raastettua inkivääriä",
+                    "2 kukkuraista tl+punaista thai currytahnaa",
+                    "2 tl+curryjauhetta",
+                    "1 tl+kurkumaa",
+                    "1 tl+cayennepippuria",
+                    "1 rkl+garam masalaa",
+                    "+mustapippuria",
+                    "½ tl+suolaa",
+                    "3 rkl+voita paistamiseen",
+                    "+tuoretta korianteria"
+                ],
+                "Valmistus": [
+                    "Paahda cashewpähkinöitä+pannulla ilman rasvaa, kunnes niihin tulee hieman väriä. Varo polttamasta!",
+                    "Mittaa blenderiin+paahdetut pähkinät, kookosmaito ja tomaattipyre sekä 1dl vettä. Sekoita ainekset sileäksi.",
+                    "Leikkaa paneer-juusto+kuutioiksi ja paista ne kuumalla pannulla molemmin puolin kauniin värisiksi. Käytä paistamiseen n. 1 rkl voita. Siirrä paistetut juustot sivuun odottamaan.",
+                    "Kuori ja+hienonna sipuli. Raasta kuorittu inkivääri. Kuumenna loput voista pannulla ja kuullota sipulia sekä inkivääriä muutama minuutti. Lisää sitten currytahna, curryjauhe, kurkuma, cayennepippuri ja garam masala. Sekoita mausteet sipulin ja inkiväärin kanssa keskenään.",
+                    "Kaada cashew-kookoskastike+pannulle ja anna kastikkeen muhia miedolla lämmöllä noin 15 minuuttia.",
+                    "Mausta suolalla+ja mustapippurilla. Sekoita joukkoon paneer-juusto. Tarjoile kastike keitetyn riisin ja naanleivän kanssa. Koristele annos tuoreella korianterilla."
+                ]
+            },
+            "steps": [],
+            "hints": [
+                "Keitä riisi ja lämmitä naanleipä uunissa pakkauksen mukaan sillä aikaa, kun kastike muhii liedellä."
+            ]
+        }
+    ]
+}

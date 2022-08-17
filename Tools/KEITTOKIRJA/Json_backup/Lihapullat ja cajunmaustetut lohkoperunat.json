@@ -1,0 +1,42 @@
+{
+    "foods": [
+        {
+            "name": "Lihapullat ja cajunmaustetut lohkoperunat",
+            "portions": "4",
+            "ings": {
+                "Lihapullat ": [
+                    "400 g+jauhelihaa (15% rasvaa)",
+                    "1+sipuli",
+                    "2 dl+kermaviiliä (tai turkkilaista jogurttia)",
+                    "1 dl+korppujauhoja",
+                    "1+kananmuna",
+                    "1 ½+ tl+suolaa",
+                    "¼ tl+mustapippuria",
+                    "¼ tl+maustepippuria",
+                    "voita paistamiseen"
+                ],
+                "Cajunmaustetut lohkoperunat ": [
+                    "n. 8-12+perunaa koosta riippuen (esim. Rosamunda tai Van Gogh)",
+                    "n. 2 rkl+oliiviöljyä",
+                    "n. 1 rkl+cajun-mausteseosta",
+                    "n. ½ tl+suolaa tai hyppysellinen sormisuolaa"
+                ]
+            },
+            "steps": [
+                "Silppua sipuli ja kuullota sipulisilppu pannulla voissa. Anna sipulin jäähtyä.",
+                "Yhdistä kulhossa kermaviili ja korppujauhot keskenään. Anna turvota hetken.",
+                "Lisää seokseen kananmuna, mausteet ja sipulisilppu. Sekoita tasaiseksi ja lisää joukkoon jauheliha. Sekoita ainekset keskenään taikinaksi.",
+                "Anna lihapullataikinan tekeytyä viileässä ainakin 30 min ennen pulliksi pyörittelyä.",
+                "Kostuta työlauta ja kädet vedellä, jotta taikina ei tartu niihin. Pyörittele massasta sopivan kokoisia pullia.",
+                "Paista lihapullat voissa pannulla. Rasvaa ei tarvitse suuria määriä, sillä jauhelihassa itsessään on rasvaa. Paista lihapullia ensin niin, että ne saavat väriä. Vähennä sen jälkeen lämpöä ja anna lihapullien kypsyä sisältä.",
+                "Laita uuni kuumenemaan 200 asteeseen.",
+                "Pese perunat puhtaiksi. Perunoita ei tarvitse kuoria.",
+                "Halkaise perunat pituussuunnassa ja lohko puolikkaat noin neljään osaan.",
+                "Siirrä perunat kulhoon ja sekoita niiden joukkoon tasaisesti oliiviöljy, cajun-mausteseos sekä suola. Öljyä ja mausteseosta voi lisätä suurpiirteisesti, oman maun mukaan.",
+                "Siirrä perunalohkot leivinpaperoidulle uunipellille niin, etteivät ne ole aivan kiinni toisissaan.",
+                "Paahda perunoita uunin keskitasolla noin 30 minuuttia."
+            ],
+            "hints": []
+        }
+    ]
+}

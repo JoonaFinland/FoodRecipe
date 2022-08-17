@@ -1,0 +1,32 @@
+{
+    "foods": [
+        {
+            "name": "Äidin kanaa riisipedillä",
+            "portions": "2",
+            "ings": {
+                "Ainekset ": [
+                    "1 ½ dl+täysjyväriisiä",
+                    "½ l+kiehuvaa vettä",
+                    "1+kasvisliemikuutio",
+                    "1 rkl+oliivi- tai rypsiöljyä",
+                    "300 g+Apetit amerikansekoitus -kasvissekoitusta",
+                    "2-3+maustettua kanan rintafilettä"
+                ]
+            },
+            "steps": [
+                "Laita uuni kuumenemaan 200 asteeseen.",
+                "Kiehauta vesi vedenkeittimessä. Sekoita kiehuvan veden joukkoon kasvisliemikuutio.",
+                "Voitele halutessasi uunivuoka tilkalla öljyä. Ripottele vuoalle tasaisesti riisit.",
+                "Kaada kasvisliemi riisin päälle ja laita 200 asteiseen uuniin 30 min ajaksi.",
+                "Ota vuoka pois uunista. Ripottele riisin päälle tasaisesti kasvissekoitus ja asettele kanan rintafileet päällimmäisiksi. Laita takaisin uuniin noin 25-30 minuutiksi, kunnes kanat ovat kypsyneet.",
+                "Nauti!"
+            ],
+            "hints": [
+                "Tuplaamalla ohjeen saat pellillisen ruokaa. Kahden hengen annos kannattaa valmistaa isossa uunivuoassa.",
+                "Kasvisliemikuution voi korvata yrttiliemikuutiolla, joka antaa hieman erilaista makua riisipedille.",
+                "Valitse itsellesi mieluisan makuiset kanan rintafileet. Tässä kuitenkin suosikkimakuja merkiltä Naapurin maalaiskana: provence, chimichurri, hunaja-timjami ja yrttiöljy.",
+                "Voit tehdä myös kalaa riisipedillä! Laita tällöin riisin ja kasvisten päälle lohifileepalat tai lohimedaljongit, jotka olet maustanut esimerkiksi suolalla, pippurilla ja chilihiutaleilla. Katso pakkauksesta sopiva kypsennysaika tai kypsennä kalaa n. 30 minuuttia."
+            ]
+        }
+    ]
+}

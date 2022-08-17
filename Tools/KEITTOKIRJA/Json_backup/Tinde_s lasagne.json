@@ -1,0 +1,46 @@
+{
+    "foods": [
+        {
+            "name": "Tinde's lasagne",
+            "portions": "1",
+            "ings": {
+                "Jauhelihakastikkeen ainekset ": [
+                    "400 g+naudan jauhelihaa",
+                    "1-2 rkl+voita",
+                    "2+valkosipulinkynttä",
+                    "1+sipuli",
+                    "1+porkkana",
+                    "1+sellerinvarsi",
+                    "kuivattua tai tuoretta punaista chiliä",
+                    "1 tl+jauhettua paprikaa",
+                    "1 prk / n. 400 g+Mutti yrttitomaattimurskaa",
+                    "n. 2 dl+vettä",
+                    "1+lihaliemikuutio",
+                    "1 tl+kuivattua basilikaa tai nippu tuoretta",
+                    "suolaa ja mustapippuria"
+                ],
+                "Valkokastikkeen ainekset ": [
+                    "0,75 l+maitoa",
+                    "50 g+huoneenlämpöistä voita",
+                    "1 dl+vehnäjauhoja",
+                    "(¼ tl+jauhettua muskottipähkinää)",
+                    "1 pss (n.150 g)+emmental tai mozzarella juustoraastetta",
+                    "suolaa ja valkopippuria (mustapippurikin käy)"
+                ],
+                "Muut ainekset ": [
+                    "Lasagnelevyjä kerroksiin+",
+                    "1 pss (n.150g)+mozzarella juustoraastetta"
+                ]
+            },
+            "steps": [
+                "Valmista jauhelihakastike. Kuori ja hienonna valkosipulinkynnet ja sipuli. Kuori porkkana. Kuutioi porkkana ja selleri. Jos laitat tuoretta chiliä, pilko myös se. Kuullota sipulit, chili, porkkana ja selleri pannulla voissa. Sekoita paprikajauhe kasvisten joukkoon. Lisää pannulle jauheliha ja ruskista nämä yhdessä. Kaada tomaattimurska joukkoon sekä puoli purkkia (tai 2 dl) vettä. Lisää lihaliemikuutio. Mausta mustapippurilla, basilikalla ja tilkalla suolaa. Anna porista hiljalleen sillä välin, kun valmistat valkokastikkeen. Tarkista makua ja lisää mausteita niin, että kaikki maut ovat tasapainossa ja makua saa olla!"
+            ],
+            "hints": [
+                "Alkuperäisessä ohjeessa lasagneen lisätään myös paketti pekonia. Jos haluat joukkoon pekonia, kuutioi pekoni ennen kasviksia ja paista se pannulla ilman rasvaa miedolla lämmöllä niin, että rasva sulaa. Lisää pilkotut kasvikset pekonin kanssa pannulle, ilman voita. Jatka sitten ohjeen mukaan reseptiä.",
+                "Laita chiliä oman maun mukaan.",
+                "Voit käyttää lasagneen haluamaasi juustoa. Valmiiksi raastetut juustot nopeuttavat ja helpottavat lasagnen tekoa.",
+                "Pinnalle ripotetun juustoraasteen alle voi lisätä ohueksi viipaloitua tuoretta tomaattia."
+            ]
+        }
+    ]
+}

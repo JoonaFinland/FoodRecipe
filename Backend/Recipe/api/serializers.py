@@ -14,17 +14,17 @@ class UserViewSerializer(serializers.ModelSerializer):
 
 
 class LightRecipeSerializer(serializers.ModelSerializer):
-    user = UserViewSerializer(many=False)
+    #user = UserViewSerializer(many=False)
     class Meta:
         model = Recipe
-        exclude = ['instructions']
+        exclude = ['foods']
 
 
 class XLightRecipeSerializer(serializers.ModelSerializer):
-    user = UserViewSerializer(many=False)
+    #user = UserViewSerializer(many=False)
     class Meta:
         model = Recipe
-        fields = ['user','name','id',]
+        fields = ['name','id',]
 
 
 class IngredientSerializer(serializers.ModelSerializer):
@@ -35,15 +35,19 @@ class IngredientSerializer(serializers.ModelSerializer):
 
 class RecipeIngredientSerializer(serializers.ModelSerializer):
     ingredient = IngredientSerializer(many=False)
-    recipe = XLightRecipeSerializer(many=False)
     class Meta:
         model = RecipeIngredient
-        fields = ['quantity','ingredient','recipe']
+        fields = ['quantity','ingredient']
 
+class FoodSerializer(serializers.ModelSerializer):
+    ingredients = RecipeIngredientSerializer(many=True)
+    class Meta:
+        model = Food
+        fields = '__all__'
 
 class RecipeSerializer(serializers.ModelSerializer):
-    user = UserViewSerializer(many=False)
-    ingredients = RecipeIngredientSerializer(many=True)
+    #user = UserViewSerializer(many=False)
+    foods = FoodSerializer(many=True)
     class Meta:
         model = Recipe
         fields = '__all__'

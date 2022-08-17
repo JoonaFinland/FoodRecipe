@@ -1,0 +1,46 @@
+{
+    "foods": [
+        {
+            "name": "Maailman paras suppilovahveropiirakka",
+            "portions": "MAAILMAN",
+            "ings": {
+                "Piirakkapohjan ainekset": [
+                    "100 g+huoneenlämpöistä voita",
+                    "100 g+porkkanaraastetta",
+                    "1 dl+jauhoja",
+                    "1 dl+kaurahiutaleita",
+                    "½ tl+leivinjauhetta",
+                    "½ tl+suolaa"
+                ],
+                "Täytteen ainekset ": [
+                    "½ l / 40 g+tuoreita / kuivattuja suppilovahveroita",
+                    "1+punasipuli",
+                    "1 rkl+voita",
+                    "3-4 tl+tuoretta timjamia",
+                    "ripaus suolaa",
+                    "ripaus mustapippuria",
+                    "100 g+maustamatonta tuorejuustoa",
+                    "1 ½ dl+kuohukermaa",
+                    "1+kananmuna",
+                    "n. 2 dl+raastettua (gouda)juustoa"
+                ]
+            },
+            "steps": [
+                "Laita uuni kuumenemaan 225 asteeseen. Voitele ja jauhoita 24 cm halkaisijaltaan oleva piirakkavuoka.",
+                "Jos käytät kuivattuja sieniä, aloita laittamalla ne likoamaan kylmään veteen. Muussa tapauksessa aloita tekemään piirakkataikinaa.",
+                "Sekoita keskenään rasva ja porkkanaraaste. Sekoita keskenään myös vehnäjauhot, kaurahiutaleet, leivinjauhe ja suola. Yhdistä seokset ja muodosta niistä taikina.",
+                "Levitä taikina kostein sormin piirakkavuokaan reunoja myöten. Esipaista pohjaa 225 asteessa 10 minuuttia ja ota se sitten pois uunista täyttöä varten. Vähennä uunin lämpöä 200 asteeseen.",
+                "Paista puhdistettuja, tuoreita sieniä pannulla kunnes neste on kiehunut pois niistä. Jos käytät kuivattuja sieniä, kaada liotusvesi pois ja paista niitä samaan tapaan rasvatulla pannulla, kunnes neste on melkein haihtunut.",
+                "Silppua punasipuli ja lisää se pannulle sienien joukkoon. Paistele, kunnes sipuli on pehmennyt. Mausta sienisipuliseos kevyesti suolalla ja mustapippurilla sekä tuoreella timjamilla.",
+                "Levitä täyte piirakkapohjan päälle.",
+                "Sekoita keskenään kerma ja tuorejuusto. Lisää joukkoon kananmuna ja sekoita tasaiseksi. Kaada seos sienitäytteen päälle.",
+                "Lisää pinnalle vielä raastettua juustoa ja paista piirakka 200 asteessa noin 30 minuuttia.",
+                "VINKKI:",
+                "Äitiltä saa usein esipaistettuja tuoreita sieniä. Ne voi laittaa pannulle paistumaan sipulin kanssa samaan aikaan.",
+                "Voit kokeilla myös muita tuoreita yrttejä, kuten persiljaa tai rosmariinia.",
+                "Helppo piirakkapohja soveltuu myös muihin piirakoihin."
+            ],
+            "hints": []
+        }
+    ]
+}
